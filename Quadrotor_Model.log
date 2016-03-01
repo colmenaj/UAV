@@ -1,0 +1,364 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.2)  1 MAR 2016 16:38
+entering extended mode
+**Quadrotor_Model.tex
+(Quadrotor_Model.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.sty"
+Package: babel 2014/09/25 3.9l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.def"
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
+Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
+\es@quottoks=\toks14
+\es@quotdepth=\count88
+Package babel Info: Making " an active character on input line 516.
+Package babel Info: Making . an active character on input line 617.
+Package babel Info: Making < an active character on input line 662.
+Package babel Info: Making > an active character on input line 662.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2014/04/30 v1.2b Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+) (Quadrotor_Model.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen115
+\scratchbox=\box30
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen116
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks26
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (Quadrotor_Model.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<Inertia_moments.jpeg, id=10, 1171.37625pt x 1101.11375pt>
+File: Inertia_moments.jpeg Graphic file (type jpg)
+
+<use Inertia_moments.jpeg>
+Package pdftex.def Info: Inertia_moments.jpeg used on input line 21.
+(pdftex.def)             Requested size: 292.84334pt x 275.27777pt.
+ [2 <./Inertia_moments.jpeg>] [3]
+<Rotation_x.jpeg, id=28, 1343.0175pt x 1397.22pt>
+File: Rotation_x.jpeg Graphic file (type jpg)
+ <use Rotation_x.jpeg>
+Package pdftex.def Info: Rotation_x.jpeg used on input line 128.
+(pdftex.def)             Requested size: 201.44392pt x 209.57396pt.
+
+[4] <Rotations_y_z.jpeg, id=34, 1367.1075pt x 733.74126pt>
+File: Rotations_y_z.jpeg Graphic file (type jpg)
+
+<use Rotations_y_z.jpeg>
+Package pdftex.def Info: Rotations_y_z.jpeg used on input line 142.
+(pdftex.def)             Requested size: 341.77603pt x 183.43486pt.
+ [5 <./Rotation_x.jpeg> <./Rotations_y_z.jpeg>]
+<Rotation_same_axis.jpeg, id=38, 1441.385pt x 840.13875pt>
+File: Rotation_same_axis.jpeg Graphic file (type jpg)
+
+<use Rotation_same_axis.jpeg>
+Package pdftex.def Info: Rotation_same_axis.jpeg used on input line 167.
+(pdftex.def)             Requested size: 331.51158pt x 193.22784pt.
+
+<Rotation_different_axes.jpeg, id=39, 1434.35875pt x 835.12pt>
+File: Rotation_different_axes.jpeg Graphic file (type jpg)
+
+<use Rotation_different_axes.jpeg>
+Package pdftex.def Info: Rotation_different_axes.jpeg used on input line 178.
+(pdftex.def)             Requested size: 329.89557pt x 192.07355pt.
+ [6 <./Rotation_same_axis.jpeg>]
+<Rotated_System.jpeg, id=43, 1171.37625pt x 601.24625pt>
+File: Rotated_System.jpeg Graphic file (type jpg)
+
+<use Rotated_System.jpeg>
+Package pdftex.def Info: Rotated_System.jpeg used on input line 187.
+(pdftex.def)             Requested size: 284.53206pt x 156.48546pt.
+ [7 <./Rotation_different_axes.jpeg> <./Rotated_System.jpeg>] <S_S1.jpeg, id=48
+, 1161.33875pt x 599.23875pt>
+File: S_S1.jpeg Graphic file (type jpg)
+ <use S_S1.jpeg>
+Package pdftex.def Info: S_S1.jpeg used on input line 209.
+(pdftex.def)             Requested size: 290.33397pt x 149.80931pt.
+
+<S1_S2.jpeg, id=49, 1158.3275pt x 598.235pt>
+File: S1_S2.jpeg Graphic file (type jpg)
+ <use S1_S2.jpeg>
+Package pdftex.def Info: S1_S2.jpeg used on input line 212.
+(pdftex.def)             Requested size: 289.58116pt x 149.55838pt.
+ [8 <./S_S1.jpeg> <./S1_S2.jpeg>] [9] <Helix_diagram.jpeg, id=56, 1207.51125pt 
+x 745.78625pt>
+File: Helix_diagram.jpeg Graphic file (type jpg)
+
+<use Helix_diagram.jpeg>
+Package pdftex.def Info: Helix_diagram.jpeg used on input line 255.
+(pdftex.def)             Requested size: 338.10085pt x 208.81873pt.
+ <Upward_flow.jpeg, id=57, 731.73375pt x 348.30125pt>
+File: Upward_flow.jpeg Graphic file (type jpg)
+
+<use Upward_flow.jpeg>
+Package pdftex.def Info: Upward_flow.jpeg used on input line 259.
+(pdftex.def)             Requested size: 256.11064pt x 121.90726pt.
+ [10 <./Helix_diagram.jpeg> <./Upward_flow.jpeg>]
+[11] <Drone_diagram.jpeg, id=65, 1594.95876pt x 1113.15875pt>
+File: Drone_diagram.jpeg Graphic file (type jpg)
+
+<use Drone_diagram.jpeg>
+Package pdftex.def Info: Drone_diagram.jpeg used on input line 270.
+(pdftex.def)             Requested size: 318.9861pt x 222.6278pt.
+ [12 <./Drone_diagram.jpeg>] [13]
+<Model_sml.jpg, id=73, 458.46281pt x 264.23718pt>
+File: Model_sml.jpg Graphic file (type jpg)
+ <use Model_sml.jpg>
+Package pdftex.def Info: Model_sml.jpg used on input line 336.
+(pdftex.def)             Requested size: 183.38187pt x 105.693pt.
+
+<Model_sml2.jpg, id=74, 864.98157pt x 391.4625pt>
+File: Model_sml2.jpg Graphic file (type jpg)
+ <use Model_sml2.jpg>
+Package pdftex.def Info: Model_sml2.jpg used on input line 337.
+(pdftex.def)             Requested size: 328.69641pt x 148.7573pt.
+
+<Const_thrust.jpg, id=75, 835.62187pt x 435.87843pt>
+File: Const_thrust.jpg Graphic file (type jpg)
+ <use Const_thrust.jpg>
+Package pdftex.def Info: Const_thrust.jpg used on input line 347.
+(pdftex.def)             Requested size: 317.53961pt x 165.63551pt.
+
+[14 <./Model_sml.jpg> <./Model_sml2.jpg>]
+<Const_thrust_torque_x.jpg, id=79, 835.62187pt x 437.38406pt>
+File: Const_thrust_torque_x.jpg Graphic file (type jpg)
+
+<use Const_thrust_torque_x.jpg>
+Package pdftex.def Info: Const_thrust_torque_x.jpg used on input line 354.
+(pdftex.def)             Requested size: 317.53961pt x 166.20766pt.
+
+<Const_thrust_torque_y.jpg, id=80, 837.88031pt x 438.8897pt>
+File: Const_thrust_torque_y.jpg Graphic file (type jpg)
+
+<use Const_thrust_torque_y.jpg>
+Package pdftex.def Info: Const_thrust_torque_y.jpg used on input line 361.
+(pdftex.def)             Requested size: 318.39783pt x 166.77982pt.
+ [15 <./Const_thrust.jpg> <./Const_thrust_torque_x.jpg>] [16 <./Const_thrust_to
+rque_y.jpg>] [17
+
+] (Quadrotor_Model.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3038 strings out of 493698
+ 38114 string characters out of 3144404
+ 105729 words of memory out of 3000000
+ 6309 multiletter control sequences out of 15000+200000
+ 16987 words of font info for 51 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,10n,30p,445b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/cm-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/cm-super/sfbx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-sup
+er/sfrm1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm12
+00.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on Quadrotor_Model.pdf (17 pages, 1052187 bytes).
+PDF statistics:
+ 150 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

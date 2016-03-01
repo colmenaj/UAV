@@ -1,0 +1,22 @@
+\select@language {spanish}
+\select@language {english}
+\contentsline {section}{\numberline {1}Basis Concepts}{2}
+\contentsline {subsection}{\numberline {1.1}Inertia Moments}{2}
+\contentsline {subsection}{\numberline {1.2}Skew symmetric Matrix}{3}
+\contentsline {subsection}{\numberline {1.3}Change of coordinates}{4}
+\contentsline {subsection}{\numberline {1.4}Rotation Matrix}{4}
+\contentsline {subsubsection}{\numberline {1.4.1}Rotations about axes x, y and z}{5}
+\contentsline {subsubsection}{\numberline {1.4.2}Composition of rotations}{6}
+\contentsline {paragraph}{Rotations in the same coordinated system}{6}
+\contentsline {paragraph}{Rotations in different coordinated systems}{6}
+\contentsline {subsubsection}{\numberline {1.4.3}Transformation of coordinates caused by a rotation matrix}{7}
+\contentsline {subsection}{\numberline {1.5}Euler Angles}{8}
+\contentsline {subsubsection}{\numberline {1.5.1}Cardan Angles}{8}
+\contentsline {subsection}{\numberline {1.6}Derivative of a rotation matrix}{9}
+\contentsline {subsection}{\numberline {1.7}Derivative of a vector expressed in a rotating frame}{10}
+\contentsline {subsection}{\numberline {1.8}Lift and drag torque}{10}
+\contentsline {section}{\numberline {2}Mathematical model of a quadrotor }{12}
+\contentsline {subsection}{\numberline {2.1}Position model of a quadrotor}{12}
+\contentsline {subsection}{\numberline {2.2}Attitude model of a quadrotor}{13}
+\contentsline {section}{\numberline {3}Observations and conclusions}{14}
+\contentsline {section}{4. References}{17}

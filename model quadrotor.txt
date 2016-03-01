@@ -1,0 +1,22 @@
+model of quadrotor
+
+introduction
+inertia moments
+skew symmetric matrix
+rotation matrix and deduction or obtention
+properties of rotation matrix
+composition of rotations
+change of coordinates & change of coordinates caused by rotation matrix
+derivative of rotation matrix
+euler angles and cardan angles (dangle= (B_ang)*w)  
+derivative over a system with coordinates in a rotating system (dr=dr+wxr with r in mobile system)
+drag torque (cause of drag torque)
+
+Developpement
+free body diagram
+deduction of equations: attitude and position
+
+
+conclusion
+non linearities: flexible wings, inaccurate gravity center, speed force relationship in motors, variation of inertia moments
+Q
